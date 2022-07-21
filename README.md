@@ -9,7 +9,7 @@ The data will need to formatted such that each column represents a gene and each
 
 ## 2. Calculate coexpression using Calculate.coexpression.R
 
-This will calculate the Pearson's coexpression data.
+This will calculate the Pearson's pairwise coexpression data.
 
 
 
